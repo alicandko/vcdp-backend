@@ -1,0 +1,10 @@
+django<2.0
+djangorestframework
+numpy
+scipy
+scikit-learn
+django-cors-headers
+google-api-python-client
+nltk
+pandas
+mock
